@@ -1,4 +1,4 @@
-# A collection of everything for Intro to Machine Learning (ITAI-1371)
+# A collection of everything for my AI career.
 # Components 
 Composed of Labs and Projects
 # Labs
